@@ -1,6 +1,11 @@
 #pragma once
-using namespace std;
 #include "Player.hpp"
+#include "City.hpp"
+#include "Board.hpp"
+#include <typeinfo>
+#include "string"
+#include <stdio.h>
+using namespace std;
 
 namespace pandemic{
 
